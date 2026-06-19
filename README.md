@@ -1,5 +1,5 @@
 # SPDC-Type-2-Beta-Barium-Borate-Freq-OAM-entanglement
-Abstract
+Abstract:
 Spontaneous Parametric Down Conversion (SPDC) is a non-linear χ(2) process where
 one (pump) photon spontaneously down-converts(energy) into 2 correlated photons
 (signal and idler). This process is key to the generation of entangled photonic qubits
@@ -19,4 +19,4 @@ this project aims at designing the experiment simulation for being used in a mac
 learning model to learn this experiment and obtain the optimum parameters such as
 pump waist, structure of the crystal, design of post processing optics such as factors of
 rotating q plates, that will give us the desired maximally entangled state.
-iv
+
